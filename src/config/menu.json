@@ -1,0 +1,67 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Specialty",
+      "url": "/elements"
+    },
+    {
+      "name": "Pages",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Contact",
+          "url": "/contact"
+        },
+
+        {
+          "name": "Our Team",
+          "url": "/authors"
+        },
+        {
+          "name": "Categories",
+          "url": "/categories"
+        },
+
+        {
+          "name": "404 Page",
+          "url": "/404"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "Specialty",
+      "url": "/elements"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "name": "Trade/Company Registry No: 139526/072/073 VAT: 603734212",
+      "url": ""
+    },
+    {
+      "name": "Email: globaltecheng2072@gmail.com",
+      "url": ""
+    },
+    {
+      "name": "Mobile: +977 985-1058103",
+      "url": ""
+    },
+    {
+      "name": "Phone: 01 5201420",
+      "url": ""
+    }
+  ]
+}
